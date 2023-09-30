@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10da0152-63ed-4d20-8311-0c06d3ff9398" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/main/java/org/example/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/main/java/org/example/OperacionesAritmeticas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/main/java/org/example/StringUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/main/java/org/example/VerificarContraseña.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/test/java/org/example/CalculadoraTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/test/java/org/example/OperacionesAritmeticasTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/test/java/org/example/StringUtilTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ejercicio1-TestUnitario/src/test/java/org/example/VerificarContraseñaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/src/main/java/FizzBuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FizzBuzzJunit/src/test/java/FizzBuzzTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/src/main/java/Dado/Dado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/src/main/java/Dado/DadoReal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/src/main/java/Dado/Juego.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/src/main/java/Pasarela/MiClaseQueProcesaPagos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/src/main/java/Pasarela/PasarelaPago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/src/test/java/Dado/JuegoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testMockito/src/test/java/Pasarela/MiClaseQueProcesaPagosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/src/main/java/Descuento/Descuento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/src/main/java/calcularBisiento/AnioBisiesto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/src/test/java/DescuentoTest/DescuentoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testTDD/src/test/java/calcularBisiento/AnioBisiestoTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2W65YKbgRomXcLTknIx4R8jy6Df" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10da0152-63ed-4d20-8311-0c06d3ff9398" name="Changes" comment="" />
+      <created>1696040241790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696040241790</updated>
+    </task>
+    <servers />
+  </component>
+</project>
